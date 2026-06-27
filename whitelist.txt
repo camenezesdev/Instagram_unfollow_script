@@ -1,3 +1,2 @@
 # Adicione um username do Instagram por linha para proteger do unfollow
 # Add one Instagram username per line to protect from unfollowing
-cachorro.sincero

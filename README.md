@@ -23,6 +23,7 @@ Arquitetura Híbrida de Emulação Visual (Selenium): Abordagem que substitui pe
 Estrutura do Repositório / Repository Structure
 
 Unfollow_Script
+
 ├── .venv/                  # Ambiente virtual do Python / Python Virtual Environment
 ├── whitelist.txt           # Lista de contas protegidas contra o unfollow / Protected accounts list
 ├── unfollow_script2.py     # Script principal de automação / Main automation script

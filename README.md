@@ -27,7 +27,6 @@ Plaintext
 
 ```text
 Unfollow_Script
-├── .venv/                  # Ambiente virtual do Python / Python Virtual Environment
 ├── whitelist.txt           # Lista de contas protegidas contra o unfollow / Protected accounts list
 ├── requirements.txt        # Arquivo de dependências do projeto / Project dependencies file
 ├── unfollow_script2.py     # Script principal de automação / Main automation script

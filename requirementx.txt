@@ -1,0 +1,2 @@
+# Instagram Unfollow Script requirements
+selenium>=4.0.0

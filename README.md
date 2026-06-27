@@ -20,14 +20,16 @@ Arquitetura Híbrida de Emulação Visual (Selenium): Abordagem que substitui pe
 
 [+] Resiliência a Falhas e Crashes (Session Catching): Tratamento robusto de exceções estruturais (como InvalidSessionIdException), garantindo que o fecho inesperado do browser ou quedas de sessão não corrompam o terminal ou a stack do utilizador.
 
-Estrutura do Repositório / Repository Structure
+Plaintext
+## Estrutura do Repositório / Repository Structure
 
+```text
 Unfollow_Script
-
 ├── .venv/                  # Ambiente virtual do Python / Python Virtual Environment
 ├── whitelist.txt           # Lista de contas protegidas contra o unfollow / Protected accounts list
 ├── unfollow_script2.py     # Script principal de automação / Main automation script
 └── README.md               # Documentação técnica do projeto / Technical documentation
+````
 
 Como Executar o Laboratório / Quick Start Guide
 Para executar o script de automação, certifique-se de cumprir os pré-requisitos básicos, que incluem ter o Python 3.10 ou superior instalado no host e o navegador Google Chrome atualizado. Na etapa de instalação, navegue até a pasta do projeto e configure o ambiente instalando a dependência do Selenium executando o comando pip install selenium no terminal do seu ambiente virtual. Para a configuração da whitelist, crie o arquivo whitelist.txt na raiz do diretório e adicione um nome de usuário por linha, omitindo o caractere @. Com a estrutura pronta, inicie a execução com o comando python unfollow_script2.py. O terminal interativo solicitará que insira o seu utilizador e estabeleça o limite de remoções desejado; a instância dedicada do Chrome será aberta de seguida para que faça o login manualmente e, assim que visualizar o feed principal da rede, basta pressionar [ENTER] no terminal para que o bot assuma o fluxo autônomo.

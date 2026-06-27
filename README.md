@@ -3,11 +3,13 @@
 [!["License: MIT"](https://img.shields.io/badge/License-MIT-green.svg)](#)
 
 Instagram Unfollow Bot & Automation Suite
+
 Este repositório contém a documentação completa e os scripts operacionais utilizados para gerenciar e mitigar a lista de seguintes do Instagram de forma automatizada e segura em um ambiente controlado. O objetivo desta ferramenta é demonstrar como o uso de engenharia reversa de interface via automação visual (Selenium) pode contornar os rigorosos bloqueios de sessão de firewalls de aplicação web (WAF), mimetizando com precisão o comportamento orgânico de um operador humano para evitar a sinalização da conta.
 
 This repository contains the full documentation and operational scripts used to automatically and safely manage and clean up an Instagram following list within a controlled environment. The goal of this tool is to demonstrate how interface reverse-engineering via visual automation (Selenium) can bypass strict web application firewall (WAF) session locks, precisely mimicking organic human behavior to avoid account flagging.
 
 Explicações e Features / Workflow do Script
+
 Arquitetura Híbrida de Emulação Visual (Selenium): Abordagem que substitui pedidos diretos de API por interações gráficas reais num browser legítimo, eliminando por completo os erros críticos de Login required provocados pelas firewalls e WAFs do Instagram.
 
 [+] Sistema de Rondas Consecutivas e Interativas: Permite ao utilizador definir múltiplos blocos de remoção na mesma sessão através do terminal, reiniciando o mapeamento do popup de forma dinâmica sem necessidade de reiniciar o programa.

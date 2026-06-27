@@ -1,5 +1,5 @@
 [!["Language: PT-BR/EN"](https://img.shields.io/badge/Language-PT--BR%20%2F%20EN-blue.svg)](#)
-[!["Language: Python"](https://img.shields.io/badge/Language-Python-yellow.svg)](#)
+[!["Cooded in: Python"](https://img.shields.io/badge/Language-Python-yellow.svg)](#)
 [!["License: MIT"](https://img.shields.io/badge/License-MIT-green.svg)](#)
 
 ````Instagram Unfollow Bot & Automation Suite````

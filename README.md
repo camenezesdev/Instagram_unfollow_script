@@ -40,4 +40,4 @@ This project is part of my secure ecosystem and professional portfolio. To check
 
 🔗 megabytez.pt
 
-Developed by Carlos Alexandre Menezes | Version 1.4 | Confidentiality: Academic & Professional Use.
+Developed by Carlos Alexandre Menezes | Version 1.0 | Confidentiality: Academic & Educational Use only.

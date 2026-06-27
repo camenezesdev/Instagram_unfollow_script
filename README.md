@@ -41,6 +41,7 @@ Para executar o script de automação, certifique-se de cumprir os pré-requisit
 To run this automation script, ensure you meet the prerequisites, which include having Python 3.10 or higher installed on the host and an up-to-date version of Google Chrome. For the installation phase, navigate to your project directory and configure the workspace by installing the required packages running `pip install -r requirements.txt` within your virtual environment. For the whitelist configuration, create a file named `whitelist.txt` in the root directory and add one username per line, ensuring you omit the `@` symbol. To begin execution, launch the script using the command `python unfollow_script2.py`. The interactive terminal will prompt you to enter your username and specify the session limit; a dedicated Chrome instance will then open for you to log in manually, and once you reach the main feed, simply press the **[ENTER]** key in your terminal to start the autonomous flow.
 
 ````Megabytez CyberSec Labs````
+
 Este projeto faz parte do meu ecossistema de segurança e portefólio profissional. Para consultar o meu currículo, visite o meu domínio oficial:
 
 This project is part of my secure ecosystem and professional portfolio. To check my CV, please visit my official domain:
